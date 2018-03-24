@@ -1,7 +1,7 @@
 Material Colorscheme for DrRacket
 =================================
 
-This package adds a Solarized colorscheme to DrRacket and was adapted from 
+This package adds a Material colorscheme to DrRacket and was adapted from 
 [takikawa/drracket-solarized](https://github.com/takikawa/drracket-solarized).
 
 Installation
