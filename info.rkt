@@ -4,10 +4,11 @@
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
 (define scribblings '(("scribblings/racket-material.scrbl" ())))
 (define pkg-desc "Description Here")
-(define version "0.0")
+(define version "1.0")
 (define pkg-authors '(plam))
 
-;; color scheme
+;; color scheme, adapted from takikawa/drracket-solarized
+;; https://github.com/takikawa/drracket-solarized
 (define base03  #( 38  50  56))
 (define base02  #( 55  71  79))
 (define base01  #( 84 110 122))
