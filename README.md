@@ -9,11 +9,11 @@ Installation
 
 From the package catalog:
 
-* `raco pkg install racket-material`
+* `raco pkg install drracket-material`
 
 Directly from github:
 
-* `raco pkg install git://github.com/turbinenreiter/racket-material`
+* `raco pkg install git://github.com/turbinenreiter/drracket-material`
 
 License
 -------
